@@ -20,3 +20,7 @@ header {
     padding: 10px;
     margin: 10px 0;
 }
+.skills ol {
+    list-style: none;
+    padding: 0;
+}
