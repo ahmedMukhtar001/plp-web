@@ -9,3 +9,10 @@ header {
     text-align: center;
     color: #fff;
 }
+
+.introduction {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+    margin: 20px 0;
+}
