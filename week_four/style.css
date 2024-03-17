@@ -4,15 +4,14 @@ body {
     padding: 0;
 }
 header {
-    background-color: #333;
+    background-color: #31363F;
     padding: 20px;
     text-align: center;
     color: #fff;
 }
 
 .introduction {
-    background-color: #f0f0f0;
-    text-align: center;
-    padding: 20px;
-    margin: 20px 0;
+    background-color: #EEEDEB;
+    padding: 10px;
+    margin: 10px 0;
 }
