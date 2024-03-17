@@ -24,3 +24,7 @@ header {
     list-style: none;
     padding: 0;
 }
+.contact {
+    background-color: #ccc;
+    padding: 20px;
+}
